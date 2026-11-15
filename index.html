@@ -5,45 +5,53 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="A personal introduction to Jamal Oladele, an AI and machine learning engineer.">
     <title>Jamal Oladele | AI and Machine Learning</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&amp;family=Poppins:wght@500;600;700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <p>Jamal Oladele</p>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+    <header class="site-header"><div class="container header-inner">
+        <p class="brand">Jamal Oladele</p>
         <nav aria-label="Main navigation">
-            <ul>
-                <li><a href="index.html" aria-current="page">Home</a></li>
-                <li><a href="projects.html">Projects/Work</a></li>
-                <li><a href="about.html">About/Contact</a></li>
+            <ul class="nav-list">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#projects">Projects/Work</a></li>
+                <li><a href="#education">Education &amp; Goals</a></li>
             </ul>
         </nav>
-    </header>
+    </div></header>
 
-    <main>
-        <section>
+    <main id="main-content" tabindex="-1" class="container">
+        <section class="section" id="home">
+            <p class="eyebrow">Jamal Oladele / Personal profile</p>
             <h1>Building Reliable and Useful AI Systems</h1>
-            <figure>
+            <figure class="card">
                 <img src="profile-illustration.svg" width="640" height="360" alt="Illustration of a computer screen connected to an artificial intelligence network with code symbols">
                 <figcaption>An illustration representing my interests in AI, software development, and connected systems.</figcaption>
             </figure>
             <p>Hello! I am Jamal Oladele, a computer science student and AI/ML professional interested in building dependable systems that solve practical problems.</p>
         </section>
 
-        <section>
+        <section class="section" id="focus">
             <h2>My Professional Focus</h2>
             <p>My work combines AI evaluation, prompt engineering, software development, data analysis, and technical problem-solving.</p>
-            <article>
+            <div class="cards">
+            <article class="card">
                 <h3>AI Training and Evaluation</h3>
                 <p>I evaluate large language model responses for accuracy, reasoning, relevance, consistency, and instruction following. I also study recurring model behavior to help improve AI quality and reliability.</p>
             </article>
-            <article>
+            <article class="card">
                 <h3>Software and Automation</h3>
                 <p>I use Python and modern development tools to create AI workflows, evaluation systems, asynchronous services, and data-driven applications.</p>
             </article>
+            </div>
         </section>
 
-        <section>
+        <section class="section" id="skills">
             <h2>Skills I Am Developing</h2>
-            <ul>
+            <ul class="skills-list">
                 <li>Python software development</li>
                 <li>AI agents and large language models</li>
                 <li>Prompt engineering and AI evaluation</li>
@@ -53,27 +61,29 @@
             </ul>
         </section>
 
-        <section>
+        <section class="section" id="projects">
             <h2>Projects That Matter to Me</h2>
-            <article>
+            <div class="cards">
+            <article class="card">
                 <h3>TaskFlow AI</h3>
                 <p>I built a Python task-execution engine that coordinates multi-agent workflows using dependency resolution and asynchronous processing.</p>
             </article>
-            <article>
+            <article class="card">
                 <h3>RAG Groundedness Engine</h3>
                 <p>I created an evaluation system that compares AI-generated responses with source documents and flags claims that are not supported by the provided context.</p>
             </article>
+            </div>
         </section>
 
-        <section>
+        <section class="section" id="education">
             <h2>Education and Goals</h2>
             <p>I study computer science at Missouri University of Science and Technology. My goal is to continue growing as an engineer who can design responsible, reliable, and understandable AI systems.</p>
         </section>
     </main>
 
-    <footer>
+    <footer class="site-footer"><div class="container footer-inner">
         <p>&copy; 2026 Jamal Oladele</p>
         <p><a href="https://github.com/joladele-pg">View my GitHub profile</a></p>
-    </footer>
+    </div></footer>
 </body>
 </html>
