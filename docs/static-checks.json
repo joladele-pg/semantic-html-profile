@@ -1,0 +1,126 @@
+{
+  "documents": [
+    {
+      "file": "semantic-html-profile\\index.html",
+      "local_links": "pass",
+      "one_h1": "pass",
+      "labels_and_references": "pass"
+    },
+    {
+      "file": "portfolio-site\\about.html",
+      "local_links": "pass",
+      "one_h1": "pass",
+      "labels_and_references": "pass"
+    },
+    {
+      "file": "portfolio-site\\index.html",
+      "local_links": "pass",
+      "one_h1": "pass",
+      "labels_and_references": "pass"
+    },
+    {
+      "file": "portfolio-site\\projects.html",
+      "local_links": "pass",
+      "one_h1": "pass",
+      "labels_and_references": "pass"
+    }
+  ],
+  "contrast": [
+    {
+      "foreground": "#0f172a",
+      "background": "#ffffff",
+      "ratio": 17.85,
+      "WCAG_AA_normal_text": "pass"
+    },
+    {
+      "foreground": "#0f172a",
+      "background": "#f8fafc",
+      "ratio": 17.06,
+      "WCAG_AA_normal_text": "pass"
+    },
+    {
+      "foreground": "#334155",
+      "background": "#ffffff",
+      "ratio": 10.35,
+      "WCAG_AA_normal_text": "pass"
+    },
+    {
+      "foreground": "#334155",
+      "background": "#f8fafc",
+      "ratio": 9.9,
+      "WCAG_AA_normal_text": "pass"
+    },
+    {
+      "foreground": "#475569",
+      "background": "#ffffff",
+      "ratio": 7.58,
+      "WCAG_AA_normal_text": "pass"
+    },
+    {
+      "foreground": "#475569",
+      "background": "#f8fafc",
+      "ratio": 7.24,
+      "WCAG_AA_normal_text": "pass"
+    },
+    {
+      "foreground": "#2563eb",
+      "background": "#ffffff",
+      "ratio": 5.17,
+      "WCAG_AA_normal_text": "pass"
+    },
+    {
+      "foreground": "#2563eb",
+      "background": "#f8fafc",
+      "ratio": 4.94,
+      "WCAG_AA_normal_text": "pass"
+    },
+    {
+      "foreground": "#1d4ed8",
+      "background": "#ffffff",
+      "ratio": 6.7,
+      "WCAG_AA_normal_text": "pass"
+    },
+    {
+      "foreground": "#1d4ed8",
+      "background": "#eff6ff",
+      "ratio": 6.16,
+      "WCAG_AA_normal_text": "pass"
+    },
+    {
+      "foreground": "#ffffff",
+      "background": "#2563eb",
+      "ratio": 5.17,
+      "WCAG_AA_normal_text": "pass"
+    },
+    {
+      "foreground": "#cbd5e1",
+      "background": "#0f172a",
+      "ratio": 12.02,
+      "WCAG_AA_normal_text": "pass"
+    },
+    {
+      "foreground": "#bfdbfe",
+      "background": "#0f172a",
+      "ratio": 12.56,
+      "WCAG_AA_normal_text": "pass"
+    },
+    {
+      "foreground": "#1e40af",
+      "background": "#eff6ff",
+      "ratio": 8.01,
+      "WCAG_AA_normal_text": "pass"
+    },
+    {
+      "foreground": "#991b1b",
+      "background": "#fff7f7",
+      "ratio": 7.87,
+      "WCAG_AA_normal_text": "pass"
+    },
+    {
+      "foreground": "#991b1b",
+      "background": "#ffffff",
+      "ratio": 8.31,
+      "WCAG_AA_normal_text": "pass"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "foreground": "#0f172a",
+    "background": "#ffffff",
+    "source": "https://webaim.org/resources/contrastchecker/?fcolor=0f172a&bcolor=ffffff&api",
+    "ratio": "17.8",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "pass",
+    "AAALarge": "pass"
+  },
+  {
+    "foreground": "#0f172a",
+    "background": "#f8fafc",
+    "source": "https://webaim.org/resources/contrastchecker/?fcolor=0f172a&bcolor=f8fafc&api",
+    "ratio": "17.0",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "pass",
+    "AAALarge": "pass"
+  },
+  {
+    "foreground": "#334155",
+    "background": "#ffffff",
+    "source": "https://webaim.org/resources/contrastchecker/?fcolor=334155&bcolor=ffffff&api",
+    "ratio": "10.3",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "pass",
+    "AAALarge": "pass"
+  },
+  {
+    "foreground": "#334155",
+    "background": "#f8fafc",
+    "source": "https://webaim.org/resources/contrastchecker/?fcolor=334155&bcolor=f8fafc&api",
+    "ratio": "9.89",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "pass",
+    "AAALarge": "pass"
+  },
+  {
+    "foreground": "#475569",
+    "background": "#ffffff",
+    "source": "https://webaim.org/resources/contrastchecker/?fcolor=475569&bcolor=ffffff&api",
+    "ratio": "7.57",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "pass",
+    "AAALarge": "pass"
+  },
+  {
+    "foreground": "#475569",
+    "background": "#f8fafc",
+    "source": "https://webaim.org/resources/contrastchecker/?fcolor=475569&bcolor=f8fafc&api",
+    "ratio": "7.24",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "pass",
+    "AAALarge": "pass"
+  },
+  {
+    "foreground": "#2563eb",
+    "background": "#ffffff",
+    "source": "https://webaim.org/resources/contrastchecker/?fcolor=2563eb&bcolor=ffffff&api",
+    "ratio": "5.16",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "fail",
+    "AAALarge": "pass"
+  },
+  {
+    "foreground": "#2563eb",
+    "background": "#f8fafc",
+    "source": "https://webaim.org/resources/contrastchecker/?fcolor=2563eb&bcolor=f8fafc&api",
+    "ratio": "4.93",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "fail",
+    "AAALarge": "pass"
+  },
+  {
+    "foreground": "#1d4ed8",
+    "background": "#ffffff",
+    "source": "https://webaim.org/resources/contrastchecker/?fcolor=1d4ed8&bcolor=ffffff&api",
+    "ratio": "6.70",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "fail",
+    "AAALarge": "pass"
+  },
+  {
+    "foreground": "#1d4ed8",
+    "background": "#eff6ff",
+    "source": "https://webaim.org/resources/contrastchecker/?fcolor=1d4ed8&bcolor=eff6ff&api",
+    "ratio": "6.15",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "fail",
+    "AAALarge": "pass"
+  },
+  {
+    "foreground": "#ffffff",
+    "background": "#2563eb",
+    "source": "https://webaim.org/resources/contrastchecker/?fcolor=ffffff&bcolor=2563eb&api",
+    "ratio": "5.16",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "fail",
+    "AAALarge": "pass"
+  },
+  {
+    "foreground": "#cbd5e1",
+    "background": "#0f172a",
+    "source": "https://webaim.org/resources/contrastchecker/?fcolor=cbd5e1&bcolor=0f172a&api",
+    "ratio": "12.0",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "pass",
+    "AAALarge": "pass"
+  },
+  {
+    "foreground": "#bfdbfe",
+    "background": "#0f172a",
+    "source": "https://webaim.org/resources/contrastchecker/?fcolor=bfdbfe&bcolor=0f172a&api",
+    "ratio": "12.5",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "pass",
+    "AAALarge": "pass"
+  },
+  {
+    "foreground": "#1e40af",
+    "background": "#eff6ff",
+    "source": "https://webaim.org/resources/contrastchecker/?fcolor=1e40af&bcolor=eff6ff&api",
+    "ratio": "8.01",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "pass",
+    "AAALarge": "pass"
+  },
+  {
+    "foreground": "#991b1b",
+    "background": "#fff7f7",
+    "source": "https://webaim.org/resources/contrastchecker/?fcolor=991b1b&bcolor=fff7f7&api",
+    "ratio": "7.87",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "pass",
+    "AAALarge": "pass"
+  },
+  {
+    "foreground": "#991b1b",
+    "background": "#ffffff",
+    "source": "https://webaim.org/resources/contrastchecker/?fcolor=991b1b&bcolor=ffffff&api",
+    "ratio": "8.31",
+    "AA": "pass",
+    "AALarge": "pass",
+    "AAA": "pass",
+    "AAALarge": "pass"
+  }
+]

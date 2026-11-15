@@ -38,3 +38,18 @@ Calculated contrast: navy on white 17.85:1; slate on off-white 9.90:1; blue on w
 ## Files
 
 index.html is the semantic profile; styles.css contains the external styling and breakpoints; profile-illustration.svg is the original illustration. Open index.html locally or use the live URL above.
+
+## Published-page verification - November 15, 2026
+
+WAVE checks of the published updated pages reported **0 errors and 0 contrast errors**. All 16 text/background pairs also passed normal-text WCAG AA in the official WebAIM Contrast Checker API; the lowest result was 4.93:1. Exact checker responses and source links are saved in [the contrast report](docs/webaim-contrast-checks.json). The earlier calculated ratios above use ordinary rounding; WebAIM displays truncated ratios.
+
+Keyboard activation of the skip link moved focus to main-content. Checks at 320px, 768px, and 1200px found no horizontal overflow. Static link, fragment, heading, and label/reference checks passed. These checks cover the tested states and do not establish complete WCAG conformance.
+
+### Before/after evidence
+
+- [Original WAVE scan: no errors or alerts](docs/evidence/wave-profile-before.png)
+- [Original mobile page](docs/evidence/profile-mobile-before.png)
+- [Original navigation link leading to a 404](docs/evidence/profile-broken-link-before.png)
+- [Revised mobile page](docs/evidence/profile-mobile-after.png)
+
+During development, WAVE identified a possible-heading alert on the styled brand paragraph. The brand is a site identifier rather than a heading, so it was changed to a span while preserving the document outline. This development alert is separate from the original zero-alert baseline.
