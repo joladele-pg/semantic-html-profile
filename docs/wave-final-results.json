@@ -1,0 +1,18 @@
+[
+  {
+    "page": "profile",
+    "summary": " 0\nErrors  0\nContrast Errors  0\nAlerts  5\nFeatures  15\nStructure  2\nARIA\n\nCongratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility.\n\nAIM Score: 10 out of 10"
+  },
+  {
+    "page": "portfolio-home",
+    "summary": " 0\nErrors  0\nContrast Errors  0\nAlerts  3\nFeatures  14\nStructure  7\nARIA\n\nCongratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility.\n\nAIM Score: 10 out of 10"
+  },
+  {
+    "page": "portfolio-projects",
+    "summary": " 0\nErrors  0\nContrast Errors  0\nAlerts  3\nFeatures  11\nStructure  6\nARIA\n\nCongratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility.\n\nAIM Score: 10 out of 10"
+  },
+  {
+    "page": "portfolio-about",
+    "summary": " 0\nErrors  0\nContrast Errors  1\nAlerts  10\nFeatures  15\nStructure  15\nARIA\n\nCongratulations! No errors were detected! Manual testing is still necessary to ensure compliance and optimal accessibility.\n\nAIM Score: 10 out of 10"
+  }
+]

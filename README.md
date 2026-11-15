@@ -33,7 +33,7 @@ These are three manual findings, not three WAVE findings. The assignment's requi
 
 ## Contrast and verification
 
-Calculated contrast: navy on white 17.85:1; slate on off-white 9.90:1; blue on white 5.17:1; light footer text on navy 12.02:1. Local links and fragments, a single h1, and image alternative text were checked. Published-page WAVE results are recorded after the updated deployment is verified.
+Calculated contrast: navy on white 17.85:1; slate on off-white 9.90:1; blue on white 5.17:1; light footer text on navy 12.02:1. Local links and fragments, a single h1, and image alternative text were checked. Published-page WAVE results and evidence appear below.
 
 ## Files
 
@@ -53,3 +53,5 @@ Keyboard activation of the skip link moved focus to main-content. Checks at 320p
 - [Revised mobile page](docs/evidence/profile-mobile-after.png)
 
 During development, WAVE identified a possible-heading alert on the styled brand paragraph. The brand is a site identifier rather than a heading, so it was changed to a span while preserving the document outline. This development alert is separate from the original zero-alert baseline.
+
+The [final published WAVE scan](docs/evidence/wave-profile-after.png) reports **0 errors, 0 contrast errors, and 0 alerts**. [Recorded scan summary](docs/wave-final-results.json).
